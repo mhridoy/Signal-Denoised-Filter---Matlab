@@ -16,3 +16,10 @@ Almost all of the time, this involves eliminating certain frequency or frequency
 6. Passive or active type of continuous time filter
 7. Infinite impulse respone or Finnite impulse response type of discrete time or digital Filter
 
+##### Linear Continuous Time Filters
+This filter is intended to eliminate certain frequencies and allow the passage of others. It's also known as newtwork syntesis.
+
+Some significant filter families that are constructed in this manner are:
+
+1. Chebyshev filter
+
