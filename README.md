@@ -33,7 +33,7 @@ Based On the range of frequencies which is being passed by the filter, there're 
 	
 	Band pass filter passes the frequencies which are in the certain band and rejects all the frequencies which are outside this band. 
 	
-	![alt text](band_pass_filter_diagram.PNG)
+	![alt text](band_pass_filter_diagram.png)
 	
 4. Band Reject Filter
 
