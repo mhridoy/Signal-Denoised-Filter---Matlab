@@ -42,7 +42,7 @@ Almost all of the time, this involves eliminating certain frequency or frequency
 	![alt text](band_reject_filter_diagram.PNG)
  
  **Low Pass Filter**  classified into two diffrent types: 
- 1. Active LPF
+ 1. *Active LPF*
  
  	If the low filter is designed using the active components like Op-Amp and transistors then such filters are known as active low pass filter.
 	
