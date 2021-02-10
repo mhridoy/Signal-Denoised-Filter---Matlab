@@ -5,3 +5,4 @@ lpFilt = designfilt('lowpassfir','PassbandFrequency',0.25, ...
 fvtool(lpFilt)
 
 dataOut = filter(lpFilt,dataset);
+fvtool(dataOut)
