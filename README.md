@@ -56,6 +56,16 @@ Almost all of the time, this involves eliminating certain frequency or frequency
 2. RL Low Pass Filter
 3. RLC Low Pass Filter
 
+
+
+**Some** Basic **terminology** of Low Pass Filter:
+ 
+ 1. Pass Band
+ 2. Stop Band
+ 3. Cut off frequency / Threshold 
+ 
+ ![alt](Cut_off_frequency.PNG)
+
  
 ##### Linear Continuous Time Filters
 This filter is intended to eliminate certain frequencies and allow the passage of others. It's also known as newtwork syntesis.
