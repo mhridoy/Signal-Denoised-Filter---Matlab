@@ -26,9 +26,15 @@ Based On the range of frequencies which is being passed by the filter, there're 
 2. High Pass Filter
 	
 	High pass filter passes all the high frequency components starting from the cut off frequency(fc) and it rejects all the frequencies which are lesser than this cut off frequency. 
+	
 	![alt text](high_pass_filter_diagram.PNG)
 	
 3. Band Pass Filter
+	
+	Band pass filter passes the frequencies which are in the certain band and rejects all the frequencies which are outside this band. 
+	
+	![alt text](band_pass_filter_diagram.PNG)
+	
 4. Band Reject Filter
 
  
