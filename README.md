@@ -51,6 +51,11 @@ Almost all of the time, this involves eliminating certain frequency or frequency
  
  	If the low pass filter is designed using the passive components like R, L and C then such filters are known as passive low pass filters.
 
+**Most** common types of Passive Low Pass Filters:
+1. RC Low Pass Filter
+2. RL Low Pass Filter
+3. RLC Low Pass Filter
+
  
 ##### Linear Continuous Time Filters
 This filter is intended to eliminate certain frequencies and allow the passage of others. It's also known as newtwork syntesis.
