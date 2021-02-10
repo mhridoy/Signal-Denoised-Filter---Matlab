@@ -16,7 +16,7 @@ Almost all of the time, this involves eliminating certain frequency or frequency
 6. Passive or active type of continuous time filter
 7. Infinite impulse respone or Finnite impulse response type of discrete time or digital Filter
 
-Based On the range of frequencies which is being passed by the filter, there're four different types of filter:
+**Based** On the range of frequencies which is being passed by the filter, there're four different types of filter:
 
 1. Low Pass Filter
 	
@@ -40,6 +40,17 @@ Based On the range of frequencies which is being passed by the filter, there're 
 	Band reject filter, rejects all the frequency components which are under certain band and it pass all the frequencies out of this particular band. 
 	
 	![alt text](band_reject_filter_diagram.PNG)
+ 
+ **Low Pass Filter**  classified into two diffrent types: 
+ 1. Active LPF
+ 
+ 	If the low filter is designed using the active components like Op-Amp and transistors then such filters are known as active low pass filter.
+	
+ 
+ 2. Passive LPF
+ 
+ 	If the low pass filter is designed using the passive components like R, L and C then such filters are known as passive low pass filters.
+
  
 ##### Linear Continuous Time Filters
 This filter is intended to eliminate certain frequencies and allow the passage of others. It's also known as newtwork syntesis.
