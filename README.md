@@ -37,6 +37,9 @@ Based On the range of frequencies which is being passed by the filter, there're 
 	
 4. Band Reject Filter
 
+	Band reject filter, rejects all the frequency components which are under certain band and it pass all the frequencies out of this particular band. 
+	
+	![alt text](band_reject_filter_diagram.PNG)
  
 ##### Linear Continuous Time Filters
 This filter is intended to eliminate certain frequencies and allow the passage of others. It's also known as newtwork syntesis.
