@@ -21,8 +21,13 @@ Based On the range of frequencies which is being passed by the filter, there're 
 1. Low Pass Filter
 	
 	Low pass filter is the electric circuit, which passes the low range of frequency signals, starting from 0Hz to up to the cut off frequency (fc), and rejects all the other frequencies which are higher than cut off frequency (threshold frequency).  
-	![alt text](Low_pass_filter_diagram.jpg)
+	![alt text](Low_pass_filter_diagram.png)
+	
 2. High Pass Filter
+	
+	High pass filter passes all the high frequency components starting from the cut off frequency(fc) and it rejects all the frequencies which are lesser than this cut off frequency. 
+	![alt text] (high_pass_filter_diagram.jpg)
+	
 3. Band Pass Filter
 4. Band Reject Filter
 
