@@ -18,36 +18,36 @@ Almost all of the time, this involves eliminating certain frequency or frequency
 
 **Based** On the range of frequencies which is being passed by the filter, there're four different types of filter:
 
-1. Low Pass Filter
+1. **Low Pass Filter**
 	
 	Low pass filter is the electric circuit, which passes the low range of frequency signals, starting from 0Hz to up to the cut off frequency (fc), and rejects all the other frequencies which are higher than cut off frequency (threshold frequency).  
 	![alt text](Low_pass_filter_diagram.jpg)
 	
-2. High Pass Filter
+2. **High Pass Filter**
 	
 	High pass filter passes all the high frequency components starting from the cut off frequency(fc) and it rejects all the frequencies which are lesser than this cut off frequency. 
 	
 	![alt text](high_pass_filter_diagram.PNG)
 	
-3. Band Pass Filter
+3. **Band Pass Filter**
 	
 	Band pass filter passes the frequencies which are in the certain band and rejects all the frequencies which are outside this band. 
 	
 	![alt text](band_pass_filter_diagram.png)
 	
-4. Band Reject Filter
+4. **Band Reject Filter**
 
 	Band reject filter, rejects all the frequency components which are under certain band and it pass all the frequencies out of this particular band. 
 	
 	![alt text](band_reject_filter_diagram.PNG)
  
  **Low Pass Filter**  classified into two diffrent types: 
- 1. *Active LPF*
+ 1. **Active LPF**
  
  	If the low filter is designed using the active components like Op-Amp and transistors then such filters are known as active low pass filter.
 	
  
- 2. Passive LPF
+ 2. **Passive LPF**
  
  	If the low pass filter is designed using the passive components like R, L and C then such filters are known as passive low pass filters.
 
