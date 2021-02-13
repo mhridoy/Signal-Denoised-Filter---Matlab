@@ -74,5 +74,6 @@ Some significant filter families that are constructed in this manner are:
 
 1. Chebyshev filter
 
+	Chebyshev filters are used for distinct frequencies of one band from another. They cannot match the windows-sink filter’s performance and they are suitable for many applications.
 
 
