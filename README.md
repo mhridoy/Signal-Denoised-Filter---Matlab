@@ -72,7 +72,12 @@ This filter is intended to eliminate certain frequencies and allow the passage o
 
 Some significant filter families that are constructed in this manner are:
 
-1. Chebyshev filter
+1. Butterworth Filter
+	The signal processing filter which is having a flat frequency response in the passband can be termed as butterworth filter and is also called as a maximally flat magnitude filter. 
+	
+
+
+2. Chebyshev filter
 
 	Chebyshev filters are used for distinct frequencies of one band from another. They cannot match the windows-sink filter’s performance and they are suitable for many applications.
 
