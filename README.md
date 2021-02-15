@@ -73,8 +73,8 @@ This filter is intended to eliminate certain frequencies and allow the passage o
 Some significant filter families that are constructed in this manner are:
 
 1. Butterworth Filter
-	The signal processing filter which is having a flat frequency response in the passband can be termed as butterworth filter and is also called as a maximally flat magnitude filter. 
-	
+	The signal processing filter which is having a flat frequency response in the passband can be termed as butterworth filter and is also called as a maximally flat magnitude filter (from
+	 0Hz to cut-off frequency at -3dB without any ripples). 
 
 
 2. Chebyshev filter
