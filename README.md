@@ -78,6 +78,11 @@ Some significant filter families that are constructed in this manner are:
 	 0Hz to cut-off frequency at -3dB without any ripples). 
 	 
 	 ![alt image](butterworth_filter.gif)
+	 
+	 **Limitation**: 
+	 
+	 The Butterworth filter changes from pass band to stop-band by achieving pass band flatness at the expense of wide transition bands and it is considered as the main disadvantage of Butterworth filter.
+	 
 
 
 2. **Chebyshev filter**
