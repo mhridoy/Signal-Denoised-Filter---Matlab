@@ -87,6 +87,16 @@ Some significant filter families that are constructed in this manner are:
 
 2. **Chebyshev filter**
 
-	Chebyshev filters are used for distinct frequencies of one band from another. They cannot match the windows-sink filter’s performance and they are suitable for many applications.
+	Chebyshev filters are used for distinct frequencies of one band from another.
+
+ filter has a smaller transition region than the sameorder Butterworth filter, at the expense of ripples in its pass band.
+ This filter minimizes the height of the maximum ripple. 
+ 
+ 
+Chebyshev filters have 0 dB relative attenuation at dc. Odd order filters have an
+attenuation band that extends from 0 dB to the ripple value. Even order filters have a gain
+equal to the pass band ripple. The number of cycles of ripple in the pass band is equal to
+the order of the filter. 
 
 
+![chebyshev_filter.jpg]
