@@ -115,4 +115,4 @@ the order of the filter.
 	
 	
 	
-	![alt image](Type1ChebyshevFilter.jpg)
+	![alt image](Type1ChebyshevFilter.JPG)
