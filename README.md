@@ -99,4 +99,4 @@ equal to the pass band ripple. The number of cycles of ripple in the pass band i
 the order of the filter. 
 
 
-![chebyshev_filter.jpg]
+![alt image](Chebyshev_Filter.jpg)
