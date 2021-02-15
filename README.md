@@ -102,7 +102,7 @@ the order of the filter.
 ![alt image](Chebyshev_Filter.jpg)
 
 
-	**Type 1 Chebyshev Filter**:
+	**Type 1 Chebyshev Filter** :
 	
 	Terminology: 
 				
