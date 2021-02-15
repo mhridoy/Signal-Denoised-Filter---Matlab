@@ -102,7 +102,7 @@ the order of the filter.
 ![alt image](Chebyshev_Filter.jpg)
 
 
-	**Type 1 Chebyshev Filter** :
+Type 1 Chebyshev Filter :
 	
 	Terminology: 
 				
@@ -116,3 +116,12 @@ the order of the filter.
 	
 	
 	![alt image](Type_I_Chebyshev_Filter.jpg)
+	
+	
+Type 2 Chebyshev Filter: 
+
+	The type II Chebyshev filter is also known as an inverse filter, this type of filter is less common. Because, it doesn’t roll off and needs various components. It has no ripple in the passband, but it has equiripple in the stopband. 
+	
+	![alt image](Type_II_Chebyshev_Filter.jpg)
+	
+	
