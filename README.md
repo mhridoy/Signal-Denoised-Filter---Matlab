@@ -100,3 +100,18 @@ the order of the filter.
 
 
 ![alt image](Chebyshev_Filter.jpg)
+
+
+	**Type 1 Chebyshev Filter**:
+	
+	Terminology: 
+				
+				1. Ripple Factor
+				2. Cutoff frequency 
+				3. Chebyshev polynomial of the nth order. 
+	
+	
+	These Type 1 Chebyshev filters are all pole filters. In the pass band, these filters show equiripple behaviour and they have monotonic charateristics in the stop band. 
+	
+	
+	![alt image](Type1ChebyshevFilter.jpg)
