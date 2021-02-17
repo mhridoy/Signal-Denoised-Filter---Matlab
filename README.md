@@ -131,5 +131,7 @@ The type II Chebyshev filter is also known as an inverse filter, this type of fi
 An elliptic filter is a signal processing filter with equalized ripple (equiripple) behaviour in both the passband and stopband. 
 
 
+![alt image](elliptic_filter.png)
+
 
 	
