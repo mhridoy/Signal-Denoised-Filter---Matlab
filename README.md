@@ -115,7 +115,7 @@ Type 1 Chebyshev Filter :
 	
 	
 	
-	![alt image](Type_I_Chebyshev_Filter.jpg)
+![alt image](Type_I_Chebyshev_Filter.jpg)
 	
 	
 Type 2 Chebyshev Filter: 
