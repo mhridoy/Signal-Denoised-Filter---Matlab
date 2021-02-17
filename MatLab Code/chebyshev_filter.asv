@@ -4,5 +4,4 @@ dataset = importdata('signal.txt');
 dataOut = filter(b,a,dataset);
 Figure(1);
 plot(dataOut);
-Figure(2);
-deriv_data = diff(diff(dataOut));
+Figure
