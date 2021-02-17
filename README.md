@@ -133,5 +133,19 @@ An elliptic filter is a signal processing filter with equalized ripple (equiripp
 
 ![alt image](elliptic_filter.png)
 
+Parameter of Elliptic Filter Function (MATLAB):
+
+1. ellip(n,Rp,Rs,Wp):
+	
+	**Wp** Passband corner frequency Wp, the cutoff frequency, is a scalar or a two-element vector with values between 0 and 1, with 1 corresponding to the normalized Nyquist frequency, pi radians per sample.
+	 
+	
+	
+	**Rp** Passband ripple, in decibels. Twice this value specifies the maximum permissible passband width in decibels.
+
+	**Rs** Stopband attenuation, in decibels. This value is the number of decibels the stopband is attenuated with respect to the passband response.
+
+ 
+
 
 	
